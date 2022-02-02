@@ -1,0 +1,7 @@
+tomato
+mushroom
+potato
+carrot
+beetroot
+zucchini
+hand
