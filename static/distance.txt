@@ -1,0 +1,6 @@
+camera's distance to the encoder
+0
+0
+gripper's distance to the encoder
+0
+0
