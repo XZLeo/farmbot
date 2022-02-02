@@ -1,0 +1,6 @@
+classes= 7
+train  = ../dataset/train.list
+valid  = ../dataset/test.list
+names = /home/xzleo/farmbot/dataset/classes.txt
+backup = backup
+
